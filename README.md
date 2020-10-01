@@ -1,5 +1,7 @@
-# Hi there 👋
+# Hi there 👋 
 [![Rupam's github stats](https://github-readme-stats.vercel.app/api?username=iRupam)](https://github.com/anuraghazra/github-readme-stats)
+
+🌱 I’m currently learning Android Development on Kotlin.
 
 
 
