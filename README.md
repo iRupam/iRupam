@@ -1,4 +1,6 @@
 # Hi there, I'm [Rupam!](https://iRupam.github.io)  👋
+My Badges
+[![@rupz's Holopin board](https://holopin.io/api/user/board?user=rupz)](https://holopin.io/@rupz)
 [![Rupam's github stats](https://github-readme-stats.vercel.app/api?username=iRupam&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRupam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
